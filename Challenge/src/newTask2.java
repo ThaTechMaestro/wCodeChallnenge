@@ -1,5 +1,15 @@
 import java.util.Arrays;
+// Given arr = [1,2,3,4,5,6]
+// selected element, n = 2
+// rotate first time
+// ---> [6,1,2,3,4,5]
+// rotate second time
+// ---> [5,6,1,2,3,4]
 
+// using an intermediate array for the rotation
+
+//input --> arr- nums
+// selected element --> n
 
 public class newTask2 {
 
